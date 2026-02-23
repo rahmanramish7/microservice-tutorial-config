@@ -6,7 +6,7 @@ spring:
     name: RATING-SERVICE
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/rating_db
+    url: jdbc:postgresql://localhost:5432/microservice
     username: postgres
     password: Ramish@123
     driver-class-name: org.postgresql.Driver
